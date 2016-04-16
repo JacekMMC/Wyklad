@@ -34,6 +34,5 @@ GitLab to kolejna stronka podobna do github ale jest większa prywatność bo mo
 ściąga
         http://tao.inf.ug.edu.pl/ informacje wykładowcy wbzyl
        http://wbzyl.inf.ug.edu.pl/sp/unix-commands
-       
-       
+ 
 
